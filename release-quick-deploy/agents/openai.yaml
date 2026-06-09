@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Quick Deploy"
+  short_description: "Generate offline release deploy packages"
+  default_prompt: "Use $release-quick-deploy to create a fast offline deployment release package for this project."

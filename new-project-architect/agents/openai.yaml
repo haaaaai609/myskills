@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Project Architect"
+  short_description: "Plan and build new projects"
+  default_prompt: "Use $new-project-architect to clarify requirements, write system design docs, create a development plan, and start a new project."

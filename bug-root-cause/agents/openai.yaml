@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bug Root Cause"
+  short_description: "Diagnose errors before fixes"
+  default_prompt: "Use $bug-root-cause to analyze an error, explain the root cause, and ask before applying a fix."

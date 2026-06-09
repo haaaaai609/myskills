@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Evolution"
+  short_description: "Evolve existing product features"
+  default_prompt: "Use $feature-evolution to update project docs in place and implement a feature change in an existing system."
